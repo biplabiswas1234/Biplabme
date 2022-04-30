@@ -10,7 +10,7 @@ do
 		do
 			if(($(($i%$k))==0))
 			then
-			isPrime=0
+			isPrime=0;
 			break;
 			fi
 			
