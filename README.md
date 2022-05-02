@@ -1,1 +1,1 @@
-
+Welcome to wage Calculator
